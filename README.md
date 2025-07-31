@@ -3,11 +3,11 @@ I code in:
 C#
 HTML
 CSS
-JS
 Python
 
 Learning:
 C++
+JS
 
 <!--
 **LupeyGambles/LupeyGambles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
