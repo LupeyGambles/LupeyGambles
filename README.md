@@ -1,13 +1,5 @@
 ## Wsg I'm Lupey
-I code in:
-C#
-HTML
-CSS
-Python
-
-Learning:
-JS
-Java
+"sudo" is king
 
 <!--
 **LupeyGambles/LupeyGambles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
